@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ClothingPiece
+comment1.params=type\ material
+comment1.target=ClothingPiece(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ isHanged()
+comment3.params=
+comment3.target=void\ hang()
+comment4.params=
+comment4.target=void\ checkClothingPiece()
+numComments=5
