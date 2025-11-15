@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Payment
+comment1.params=
+comment1.target=Payment()
+comment10.params=
+comment10.target=java.time.LocalDate\ getCurrentDate()
+comment11.params=expences
+comment11.target=void\ setBalance(double)
+comment12.params=orderPrice
+comment12.target=boolean\ checkPayment(double)
+comment2.params=
+comment2.target=void\ setBalance()
+comment3.params=
+comment3.target=void\ setCardType()
+comment4.params=
+comment4.target=void\ setCardNumber()
+comment5.params=
+comment5.target=void\ setExpiryDate()
+comment6.params=
+comment6.target=void\ setCVV()
+comment7.params=
+comment7.target=java.lang.String\ getCardType()
+comment8.params=
+comment8.target=double\ getBalance()
+comment9.params=
+comment9.target=java.time.LocalDate\ getExpiryDate()
+numComments=13
