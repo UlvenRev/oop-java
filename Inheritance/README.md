@@ -14,6 +14,7 @@ Also demonstrated in the solution:
 #### File Structure
 
 As said before:
+```
 Game 
   -> VideoGame
     -> SpiderMan
@@ -21,3 +22,5 @@ Game
   -> BoardGame
     -> Poker
     -> DnD
+```
+
