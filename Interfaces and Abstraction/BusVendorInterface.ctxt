@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BusVendorInterface
+comment0.text=\r\nThis\ is\ the\ INTERFACE\ the\ ABSTRACT\ CLASS\ BusVendor\ implements.\r\nIt's\ not\ the\ best\ solution,\ since\ technically\ a\ separate\ interface\ isn't\ required\ here\ and\ the\ methods\ could\ be\ implemented\ straight\ in\ the\ BusVendor\ class.\r\nHowever,\ the\ requirement\ of\ the\ assignment\ is\ to\ have\ both\ -\ to\ demostrate\ use\ of\ interfaces\ and\ inheritance\ through\ abstract\ classes.\r\n\r\nSo\ this\ interface\ defines\ the\ two\ methods\ that\ are\ implemented\ by\ the\ abstract\ class.\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getAllAvailableTrips()
+comment2.params=booking
+comment2.target=boolean\ makeBooking(Booking)
+numComments=3

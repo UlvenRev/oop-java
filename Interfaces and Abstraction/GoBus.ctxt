@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GoBus
+comment0.text=\r\nFor\ this\ class,\ same\ as\ for\ CityLink\ and\ BusEireann,\ nothing\ else\ is\ needed.\ Since\ their\ methods\ are\ identicall\ and\ don't\ differ,\ they\ are\ all\r\nimplemented\ in\ the\ BusVendor\ abstract\ class\ and\ these\ classes\ INHERIT\ from\ the\ ABSTRACT\ class.\r\n\r\nWhich\ is\ why\ in\ here\ the\ only\ unique\ thing\ I\ define\ is\ the\ name\ of\ the\ class.\r\n
+comment1.params=
+comment1.target=GoBus()
+numComments=2

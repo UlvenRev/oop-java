@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BusVendor
+comment0.text=\r\nThis\ is\ the\ ABSTRACT\ CLASS\ BusVendor\ which\ IMPLEMENTS\ the\ INTERFACE\ BusVendorInterface\ with\ two\ methods\:\ getAllAvailableTrips()\ and\ makeBooking()\r\n\r\nIt\ also\ defines\ the\ common\ variables\ and\ methods\ that\ GoBus,\ CityLink\ and\ BusEireann\ have\ in\ COMMON\ -\ which\ is\ why\ they\ are\ placed\ in\ the\ abstract\ class.\r\nTherefore,\ since\ the\ assignment\ doesn't\ require\ any\ other\ unique\ implementations\ for\ companies'\ classes,\ I\ have\ everything\ in\ this\ abstract\ class.\ \r\nThe\ bus\ vendors\ classes\ only\ define\ their\ unique\ name,\ which\ gets\ placed\ into\ vendorName\ variable\ defined\ here.\ \r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getAllAvailableTrips()
+comment2.params=
+comment2.target=java.lang.String\ printAvailableTrips()
+comment3.params=booking
+comment3.target=boolean\ makeBooking(Booking)
+comment4.params=trip
+comment4.target=void\ addTrip(Trip)
+comment5.params=
+comment5.target=java.lang.String\ getBookings()
+numComments=6
