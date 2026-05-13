@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Closet
+comment1.params=door\ hangers\ clothes
+comment1.target=Closet(Door,\ Hanger[],\ ClothingPiece[])
+comment2.params=
+comment2.target=void\ openTheCloset()
+comment3.params=
+comment3.target=boolean\ checkForEmptyHangers()
+comment4.params=
+comment4.target=void\ checkForClothes()
+comment5.params=
+comment5.target=void\ hangClothes()
+comment6.params=
+comment6.target=void\ closeTheCloset()
+numComments=7

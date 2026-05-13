@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SpiderMan
+comment1.params=name\ deviceName\ wifiAccess\ playerAmount
+comment1.target=SpiderMan(java.lang.String,\ java.lang.String,\ boolean,\ int)
+comment2.params=
+comment2.target=void\ printGamePlot()
+comment3.params=
+comment3.target=void\ checkAmountOfPlayers()
+numComments=4

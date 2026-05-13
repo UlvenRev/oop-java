@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DeadByDaylight
+comment1.params=name\ device\ wifiAccess\ playerAmount
+comment1.target=DeadByDaylight(java.lang.String,\ java.lang.String,\ boolean,\ int)
+comment2.params=
+comment2.target=void\ printGamePlot()
+comment3.params=
+comment3.target=void\ checkAmountOfPlayers()
+comment4.params=
+comment4.target=void\ printConfigInfo()
+numComments=5

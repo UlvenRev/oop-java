@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Order
+comment1.params=itemsForOrder\ priceToPay\ address\ email\ payment
+comment1.target=Order(java.util.LinkedList,\ double,\ Address,\ Email,\ Payment)
+comment2.params=
+comment2.target=boolean\ confirmOrder()
+comment3.params=
+comment3.target=boolean\ isAddressComplete()
+comment4.params=
+comment4.target=int\ getTrackingNumber()
+comment5.params=
+comment5.target=java.lang.String\ getOrderStatus()
+numComments=6

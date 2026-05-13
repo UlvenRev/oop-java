@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Booking
+comment1.params=trip\ bookedSeats
+comment1.target=Booking(Trip,\ java.util.ArrayList)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getBookedSeatsString()
+comment4.params=
+comment4.target=Trip\ getTrip()
+comment5.params=
+comment5.target=java.util.ArrayList\ getBookedSeats()
+comment6.params=
+comment6.target=double\ getTotalCost()
+comment7.params=trip
+comment7.target=void\ setTrip(Trip)
+comment8.params=bookedSeats
+comment8.target=void\ setBookedSeats(java.util.ArrayList)
+numComments=9
